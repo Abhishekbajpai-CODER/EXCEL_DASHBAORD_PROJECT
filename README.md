@@ -4,7 +4,7 @@
 This project showcases proficiency in end-to-end data analysis, transforming transactional data into a dynamic reporting tool. The dashboard leverages advanced Excel techniques, including pivot tables, VLOOKUPs where applicable, and complex DAX or formulas to track profitability, revenue trends, and regional performance seamlessly. It demonstrates data storytelling and the ability to build tools that facilitate data-driven decision-making for stakeholders.
 
 **Key Performance Indicators**<img width="1308" height="667" alt="AZ Executive Summary   Profitability Dashboard" src="https://github.com/user-attachments/assets/8226c496-9238-4b97-956f-a6ce20cbebfd" />
-<img width="1308" height="667" alt="Screenshot 2026-10-25 233425" src="https://github.com/user-attachments/assets/b1f38b79-3754-4631-8f79-dbc0d78718cd" />
+
 
 
 Total Revenue: $645,223
